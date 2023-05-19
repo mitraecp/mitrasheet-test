@@ -1,0 +1,1 @@
+import{et as e,q as i,R as a}from"./entry.102678be.js";import{c as t}from"./index.d52a6416.js";import"./index.3105222b.js";const s=e(()=>{if(!t("(min-width: 1024px) and (min-height: 600px)").value)return i(a.NO_SUPORTED)});export{s as default};

@@ -1,0 +1,1 @@
+import{a as s,b as c,e,t as o,o as a}from"./entry.102678be.js";const n={},l={class:"w-full h-full flex items-center justify-center"},_={class:"text-center"},r=e("h1",{class:"text-6xl font-bold"},"404",-1),i={class:"text-2xl"};function d(t,f){return a(),c("div",l,[e("div",_,[r,e("p",i,o(t.$t("GLOBAL.404_message")),1)])])}const h=s(n,[["render",d]]);export{h as default};

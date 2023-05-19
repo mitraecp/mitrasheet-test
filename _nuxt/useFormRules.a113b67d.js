@@ -1,0 +1,1 @@
+import{i as t}from"./entry.102678be.js";const a=(e,r)=>{const s=t().$translate("SIGNUP.passwords_not_the_same");return!e.length||!r.length?Promise.reject():e!==r?Promise.reject(s):Promise.resolve()},i={required:!0,transform:e=>e==null?void 0:e.trim(),message:"Esse campo \xE9 obrigat\xF3rio."};export{a as e,i as r};

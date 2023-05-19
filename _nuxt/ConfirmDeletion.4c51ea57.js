@@ -1,0 +1,1 @@
+import{f as o,o as r,b as s,e as n,t as a}from"./entry.102678be.js";const c={class:"flex p-2 flex-col items-center"},f=o({__name:"ConfirmDeletion",props:{alertText:{type:String,required:!0}},setup(e){const t=e;return(l,p)=>(r(),s("div",c,[n("span",null,a(t.alertText),1)]))}});export{f as default};

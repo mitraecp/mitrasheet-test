@@ -1,0 +1,1 @@
+import{r as s,X as a}from"./entry.102678be.js";function i(){const e=s(""),n=s({}),r=o=>{e.value=o.access_token},t=o=>{n.value=o},{login:c,isReady:u}=a({onSuccess:r,onError:t});return{login:c,isReady:u,googleToken:e,error:n}}export{i as u};

@@ -1,0 +1,1 @@
+import{a as o}from"./useGoToScreen.2d5a4740.js";import{f as e,bO as r}from"./entry.102678be.js";import"./legacy_store.afec42ea.js";import"./useLegacyService.c9b3bbf8.js";import"./useHeadSettings.f1985dcc.js";import"./composables.aec528df.js";import"./useURLPaths.92126496.js";const _=e({__name:"index",setup(t){return r(()=>o()),()=>{}}});export{_ as default};

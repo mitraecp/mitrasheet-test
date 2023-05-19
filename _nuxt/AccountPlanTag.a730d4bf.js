@@ -1,0 +1,1 @@
+import{a as e,o as t,b as c,e as s}from"./entry.102678be.js";const n={},o={class:"w-[70px] h-[24px] capitalize bg-grey-LIGHT grid rounded-md place-items-center text-xs font-medium text-grey-300"},a=s("span",null,"free plan",-1),r=[a];function _(d,i){return t(),c("div",o,r)}const p=e(n,[["render",_]]);export{p as default};
